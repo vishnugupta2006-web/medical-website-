@@ -1,0 +1,7 @@
+{
+  "name": "PulseCare AI Engine",
+  "description": "Intelligent multimodal medical triage and healthcare navigation backend system with clinical visual scanning, WebRTC tele-health triggers, and spatial hospital locator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
